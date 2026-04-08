@@ -7,6 +7,9 @@ It demonstrates an **end-to-end data science workflow** — from data cleaning a
 
 The primary objective is to **minimize financial risk** by accurately detecting fraud while maintaining a simple and interactive user experience.
 
+## Live Demo
+https://fraud-detection-app796.streamlit.app/
+
 ---
 
 ## 🚀 Key Features
