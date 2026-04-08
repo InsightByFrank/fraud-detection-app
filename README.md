@@ -74,4 +74,67 @@ The app allows users to:
 
 ---
 
-## 📂 Project Structure
+## 📊 Example Output
+
+- Fraud Probability: **70%**  
+- Prediction: ⚠️ Fraudulent Transaction  
+
+---
+
+## 🧩 Tech Stack
+
+- Python  
+- Pandas & NumPy  
+- Scikit-learn  
+- Streamlit  
+- Matplotlib / Seaborn  
+
+---
+
+## 🎯 Business Impact
+
+This solution can be applied in:
+
+- FinTech platforms  
+- Digital banking systems  
+- Payment gateways  
+
+It helps:
+
+- Reduce financial fraud losses  
+- Improve transaction monitoring  
+- Strengthen trust in digital payments  
+
+---
+
+## 🔮 Future Improvements
+
+- Handle class imbalance with SMOTE  
+- Add explainability (SHAP/LIME)  
+- Deploy as an API  
+- Real-time fraud streaming integration  
+
+---
+
+## 👤 Author
+
+**Frank Agba**  
+Data Analyst | Aspiring Data Scientist  
+
+🌐 Portfolio: https://frankagba.base44.app/  
+💼 LinkedIn: http://www.linkedin.com/in/frank-agba  
+🐦 Twitter (X): https://x.com/agba_frank796  
+✍️ Medium: https://medium.com/@frankgodwin796  
+💻 GitHub: https://github.com/InsightByFrank  
+
+---
+
+## ⭐ Final Note
+
+This project showcases the ability to:
+
+- Transform raw data into actionable insights  
+- Build and evaluate machine learning models  
+- Deploy real-world data products  
+
+It reflects practical, job-ready skills in **data science and machine learning engineering**.
